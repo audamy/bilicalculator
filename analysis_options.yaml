@@ -1,0 +1,11 @@
+include: package:flutter_lints/flutter.yaml
+
+linter:
+  rules:
+    - camel_case_types
+    - camel_case_extensions
+    - library_names
+    - file_names
+    - library_private_types_in_public_api
+    - empty_constructor_bodies
+    - prefer_expression_function_bodies
